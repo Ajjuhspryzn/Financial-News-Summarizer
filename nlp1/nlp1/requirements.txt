@@ -1,9 +1,0 @@
-flask
-flask-cors
-click<8.3
-transformers
-torch
-spacy
-en-core-web-sm==3.7.1
-pytextrank
-rouge-score
